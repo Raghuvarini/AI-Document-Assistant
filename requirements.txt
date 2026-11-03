@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+sentence-transformers
+rank-bm25
+numpy
+pypdf
+python-docx
+python-dotenv
